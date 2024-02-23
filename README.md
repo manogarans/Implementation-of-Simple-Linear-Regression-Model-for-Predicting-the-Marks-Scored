@@ -17,7 +17,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```python
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: MANOGARAN S
 RegisterNumber:212223240081
@@ -63,34 +62,42 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-*/
+
 
 ```
 
 ## Output:
 DATA SET
-![Screenshot 2024-02-23 101600](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/f17b5eb3-7b2b-4d51-af03-85fdf209a0d0)
+
+![alt text](<Screenshot 2024-02-23 101600.png>)
 
 HEAD VALUE
-![Screenshot 2024-02-23 101609](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/d5bc2093-66b2-4240-a9e9-1f3aeb7e4735)
+
+![alt text](<Screenshot 2024-02-23 101609.png>)
 
 TAIL VALUE
-![Screenshot 2024-02-23 101615](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/aa3cf29b-ca08-4f7c-9733-006af374df82)
 
-X AND Y VALUE
-![Screenshot 2024-02-23 101643](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/e3559555-1c5b-41bb-9fb4-e694787622f0)
+![alt text](<Screenshot 2024-02-23 101615.png>)
+
+X AND Y
+![alt text](<Screenshot 2024-02-23 101643.png>) 
+
 
 PREDICTION VALUE OF X AND Y
-![Screenshot 2024-02-23 101700](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/c26f5496-8d7a-4ad2-840d-bfe5cb5d53d5)
+
+![alt text](<Screenshot 2024-02-23 101700.png>)
 
 MSE,MAE AND RMSE
-![Screenshot 2024-02-23 101732](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/23381278-8972-4a10-af4a-218821467f8e)
+
+![alt text](<Screenshot 2024-02-23 101732.png>)
 
 TRAINING SET
-![Screenshot 2024-02-23 101744](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/8b665ae2-d824-4fc7-8fdb-2ea370411125)
+
+![alt text](<Screenshot 2024-02-23 101744.png>)
 
 TESTING SET
-![Screenshot 2024-02-23 101753](https://github.com/manogarans/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331782/b1cece80-b3d5-4648-879d-e6e145ad53b3)
+
+![alt text](<Screenshot 2024-02-23 101753.png>)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
